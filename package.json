@@ -1,0 +1,11 @@
+{
+  "name": "meetup-02-21-2018",
+  "version": "1.0.0",
+  "description": "geocode calculation introduction",
+  "repository": "https://github.com/ChristianSchmidt1981/meetup-02-21-2018.git",
+  "author": "Christian Schmidt <cschmidt.solingen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}
