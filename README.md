@@ -2,6 +2,11 @@
 
 This was created during my time as a student at Code Chrysalis.
 
+You found the meetup - presentation here
+```
+https://docs.google.com/presentation/d/1mQCE_2ldufWXn6oMAPh98Ux5JEqEa034u_cgUsb6yEI/edit?usp=sharing
+```
+
 ## 0. Pre-requisite Knowledge
 
 This meetup and demonstration assumes that you have working knowledge of git and JavaScript.
